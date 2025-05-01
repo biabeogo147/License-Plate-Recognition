@@ -32,7 +32,6 @@ This project brings to life a **License Plate Recognition** system, powered by *
 ---
 
 ## 🖼️ Results
-Here’s where you can show off your amazing test results! Add your images below to highlight the system's performance. 🌟
 
 <p align="center">
   <img src="demo/0.jpg"><br/>
